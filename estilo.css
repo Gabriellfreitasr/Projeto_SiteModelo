@@ -1,0 +1,63 @@
+* {
+    background: #c5c5b2;
+    font: 16px Arial, sans-serif;
+}
+
+#principal {
+    /* border: 1px solid black; */
+    width: 70%;
+}
+
+#menu {
+    background: #c5c5b2;
+    padding: 20px;
+    text-align: center;   
+}
+
+.capa {
+    width: 99%;
+}
+
+.titulo1{
+    color: #828271;
+    background: white;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.conteudo {
+    background: white;
+    padding: 20px;
+}
+
+.conteudo p {
+    background: white;
+}
+
+.contato {
+    color: rgb(116, 105, 105);
+    font-weight: bold;
+    border: 3px solid gray;
+    border-radius: 10px;
+    padding: 5px;
+    text-align: center;
+    width: 300px;
+}
+
+a {
+    color: #828271;
+    text-decoration: none;
+    font-weight: bold;
+    background-color: #c5c5b2;
+    font-size: 23px;
+}
+
+img {
+    border: 10px solid #c3c3ae;
+}
+
+footer {
+    margin: 10px;
+    text-align: center;
+}
+
